@@ -1,0 +1,14 @@
+Mon Aug  7 23:42:13 PDT 2017
+
+x change info for chase.com
+    x setup autopay
+    x change address
+
+x change info for capitalone.com
+    x change address
+    x setup autopay for 5368
+        * confirmation number: B1TX93BBBB
+    x setup autopay for 5390
+        * confirmation number: B1TX93BBBC
+
+- change address on aaa.com

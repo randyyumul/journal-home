@@ -1,0 +1,3 @@
+print it out to sign
+scan and email it support@scottrade.com
+
