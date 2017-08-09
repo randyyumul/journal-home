@@ -12,3 +12,5 @@ x change info for capitalone.com
         * confirmation number: B1TX93BBBC
 
 - change address on aaa.com
+
+x added journal-home github repository
