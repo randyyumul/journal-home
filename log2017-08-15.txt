@@ -1,0 +1,15 @@
+Tue Aug 15 16:44:55 PDT 2017
+
+- change address on aaa.com
+- get insurance quote for $20K
+    * Pacific Specialty Insurance
+        * coverage: $15K
+            * personal property
+            * $500 deductible
+            * building: $30K
+            * Personal Liability: $300K
+            * Water backup Coverage: $2500
+        * Total Policy Charge: $556.00
+
+x added journal-home github repository
+
