@@ -1,4 +1,4 @@
 Tue Aug 22 19:23:27 PDT 2017
 
 - change address on aaa.com
-- create script to auto commit new logs
+- setup vim to have command to auto commit logs
